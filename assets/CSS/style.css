@@ -1,0 +1,39 @@
+.header{
+    height: 110px;
+    background-color: #ffffff;
+    margin-top: 5px;
+    box-shadow: 2px 2px 4px #0000003d;
+}
+.logo {
+    height: 80px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.collapse{
+    padding-left: 60%;
+    margin-bottom: 10px;
+}
+.image1{
+    width: 500px;
+    height: 350px;
+    margin: 20px;
+    margin-top: 50px;
+    border: black 1px solid;
+
+}
+.sec-header{
+    background-color: blue;
+    height: 20px;
+}
+.carousel-inner{
+    height: 300px;
+}
+.carousel-item{
+    height: 600px;
+    width: 00px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
